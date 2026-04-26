@@ -38,5 +38,8 @@ The analysis highlights "Transitional Phases" as critical decision points for ma
 - Libraries: pandas for data manipulation, and matplotlib and seaborn for visualization.
 - Environment: Google Colab / Jupyter Notebook.
 
+
+_A presentation summarizing key findings is included in this repository: Clinical_Trial_R.ppxt_
+
 --------------------------------------------------------------------------------
 Author: Shantelle Richardson
