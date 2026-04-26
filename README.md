@@ -1,4 +1,4 @@
-# clinical-trial-enrollment-risk-analysis
+# Clinical-Trial-Enrollment-Risk-Analysis
 **Strategic Dynamics and Performance Trends in Pharmaceutical R&D**
 
 **Project Overview**
